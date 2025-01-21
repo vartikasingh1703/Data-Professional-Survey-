@@ -13,12 +13,12 @@ The "Data Professional Survey Dashboard" is an interactive analytics tool design
 1. Data Cleaning & Analysis: Python (Pandas, NumPy)
 2. Dashboard Development:  Power BI
 3. Version Control: Git and GitHub
-4. Visualization: Matplotlib/Seaborn for exploratory data analysis and Power BI for interactive dashboards.
+4. Visualization: Power BI for interactive dashboards.
 
 ## Setup Instructions
-1. Load the survey data (data.csv) into the data folder.
-@. Open the Tableau workbook (or run the Python visualization scripts).
-3. Access the dashboard via the deployed link (if hosted) or local environment.
+1. Load the survey data (Data_Professional_Survey_dataset.csv) into the data folder.
+@. Open  the Python visualization scripts.
+3. Access the dashboard .
 
 
 ## Future Enhancements
